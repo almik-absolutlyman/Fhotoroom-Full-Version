@@ -245,3 +245,6 @@ This repository serves as the official landing page for Fhotoroom. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Fhotoroom today!**
+
+---
+**Last updated:** 2026-09-08 10:51:25 UTC
